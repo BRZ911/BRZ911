@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m interested in Large Language Model and World Model.
-- 🌱 My main research interests are Large Language Model, Multimodal Large Model and **Video Understanding and Generation**.
+- 🌱 My main research interests are **Video Understanding and Generation**.
 - ⚡ Hobbies: Music, Hip Hop, Cars.
 
 <picture>
